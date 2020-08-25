@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="baseUrl" value="http://shop.demoqa.com/"></parameter> 
+   
+   
+  <parameter name="driverVer" value="ff"></parameter> 
+  <test name="Test">
+    <classes>
+    	 <!-- this for comment -->
+    	 <!-- <class name="com.ShopDemoQA.Tests.ShopDemoQA_SignIn"/>  -->
+       <class name="com.ShopDemoQA.Tests.ShopDemoQA_Registration"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

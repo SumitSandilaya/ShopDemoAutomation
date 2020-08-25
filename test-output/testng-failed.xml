@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="baseUrl" value="http://shop.demoqa.com/"/>
+  <parameter name="driverVer" value="ff"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.ShopDemoQA.Tests.ShopDemoQA_SignIn">
+        <methods>
+          <include name="signin" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.ShopDemoQA.Tests.ShopDemoQA_SignIn -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

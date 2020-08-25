@@ -1,0 +1,6 @@
+[INFO ] 2020-08-22 17:56:31.149 [main] HelloWolrd - Hello world for logger
+[INFO ] 2020-08-22 17:56:31.152 [main] HelloWolrd - Hello world for logger
+[ERROR] 2020-08-22 17:56:31.212 [main] HelloWolrd - Error for Helloe world
+[ERROR] 2020-08-22 17:56:31.212 [main] HelloWolrd - Error for Helloe world
+[INFO ] 2020-08-22 17:57:09.268 [main] HelloWolrd - Hello world for logger
+[ERROR] 2020-08-22 17:57:09.272 [main] HelloWolrd - Error for Helloe world
