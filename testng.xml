@@ -8,7 +8,7 @@
   <test name="Test">
     <classes>
     	 <!-- this for comment -->
-    	 <!-- <class name="com.ShopDemoQA.Tests.ShopDemoQA_SignIn"/>  -->
+    	 <class name="com.ShopDemoQA.Tests.ShopDemoQA_SignIn"/>
        <class name="com.ShopDemoQA.Tests.ShopDemoQA_Registration"/>
     </classes>
   </test> <!-- Test -->
