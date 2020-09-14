@@ -8,6 +8,11 @@
           <include name="Registration"/>
         </methods>
       </class> <!-- com.ShopDemoQA.Tests.ShopDemoQA_Registration -->
+      <class name="com.ShopDemoQA.Tests.ShopDemoQA_SignIn">
+        <methods>
+          <include name="signin"/>
+        </methods>
+      </class> <!-- com.ShopDemoQA.Tests.ShopDemoQA_SignIn -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

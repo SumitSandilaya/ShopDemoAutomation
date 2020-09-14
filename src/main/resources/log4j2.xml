@@ -19,7 +19,7 @@
         </Console>
     </Appenders>
     <Loggers>
-        <Logger name="com.ShopDemoQA.Infra" level="debug" additivity="true">
+        <Logger name="com.ShopDemoQA.Tests" level="debug" additivity="true">
             <appender-ref ref="fileLogger" level="trace" />
         </Logger>
         <Root level="debug" additivity="false">

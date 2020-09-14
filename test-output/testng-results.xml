@@ -1,13 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
+    <line>
+      <![CDATA[In Login Method]]>
+    </line>
+    <line>
+      <![CDATA[Emailtext box click]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password box clicked]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password]]>
+    </line>
+    <line>
+      <![CDATA[LogIn button clicked]]>
+    </line>
+    <line>
+      <![CDATA[In Login Method]]>
+    </line>
+    <line>
+      <![CDATA[Emailtext box click]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password box clicked]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password]]>
+    </line>
+    <line>
+      <![CDATA[LogIn button clicked]]>
+    </line>
+    <line>
+      <![CDATA[In Login Method]]>
+    </line>
+    <line>
+      <![CDATA[Emailtext box click]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password box clicked]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password]]>
+    </line>
+    <line>
+      <![CDATA[LogIn button clicked]]>
+    </line>
+    <line>
+      <![CDATA[In Login Method]]>
+    </line>
+    <line>
+      <![CDATA[Emailtext box click]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password box clicked]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password]]>
+    </line>
+    <line>
+      <![CDATA[LogIn button clicked]]>
+    </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="18059" started-at="2020-08-25T07:58:45Z" finished-at="2020-08-25T07:59:03Z">
+  <suite name="Suite" duration-ms="109579" started-at="2020-09-14T13:43:39Z" finished-at="2020-09-14T13:45:28Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="18059" started-at="2020-08-25T07:58:45Z" finished-at="2020-08-25T07:59:03Z">
+    <test name="Test" duration-ms="109579" started-at="2020-09-14T13:43:39Z" finished-at="2020-09-14T13:45:28Z">
       <class name="com.ShopDemoQA.Tests.ShopDemoQA_Registration">
-        <test-method status="PASS" signature="Registration(java.lang.String, java.lang.String)[pri:0, instance:com.ShopDemoQA.Tests.ShopDemoQA_Registration@47c62251]" name="Registration" duration-ms="18035" started-at="2020-08-25T13:28:45Z" finished-at="2020-08-25T13:29:03Z">
+        <test-method status="PASS" signature="Registration(java.lang.String, java.lang.String)[pri:0, instance:com.ShopDemoQA.Tests.ShopDemoQA_Registration@6a41eaa2]" name="Registration" duration-ms="40792" started-at="2020-09-14T19:14:47Z" finished-at="2020-09-14T19:15:28Z">
           <params>
             <param index="0">
               <value>
@@ -24,6 +96,96 @@
           </reporter-output>
         </test-method> <!-- Registration -->
       </class> <!-- com.ShopDemoQA.Tests.ShopDemoQA_Registration -->
+      <class name="com.ShopDemoQA.Tests.ShopDemoQA_SignIn">
+        <test-method status="PASS" signature="signin(java.lang.String, java.lang.String)[pri:0, instance:com.ShopDemoQA.Tests.ShopDemoQA_SignIn@604ed9f0]" name="signin" duration-ms="68692" started-at="2020-09-14T19:13:39Z" finished-at="2020-09-14T19:14:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://shop.demoqa.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[In Login Method]]>
+            </line>
+            <line>
+              <![CDATA[Emailtext box click]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password box clicked]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password]]>
+            </line>
+            <line>
+              <![CDATA[LogIn button clicked]]>
+            </line>
+            <line>
+              <![CDATA[In Login Method]]>
+            </line>
+            <line>
+              <![CDATA[Emailtext box click]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password box clicked]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password]]>
+            </line>
+            <line>
+              <![CDATA[LogIn button clicked]]>
+            </line>
+            <line>
+              <![CDATA[In Login Method]]>
+            </line>
+            <line>
+              <![CDATA[Emailtext box click]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password box clicked]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password]]>
+            </line>
+            <line>
+              <![CDATA[LogIn button clicked]]>
+            </line>
+            <line>
+              <![CDATA[In Login Method]]>
+            </line>
+            <line>
+              <![CDATA[Emailtext box click]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password box clicked]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password]]>
+            </line>
+            <line>
+              <![CDATA[LogIn button clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signin -->
+      </class> <!-- com.ShopDemoQA.Tests.ShopDemoQA_SignIn -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
